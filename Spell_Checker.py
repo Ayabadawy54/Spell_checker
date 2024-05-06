@@ -1,4 +1,5 @@
-import difflib , time
+import difflib
+import time
 
 # open dictionary text file 
 with open (r"C:\Users\DataOnLine\.vscode\projects\uni_project\Dictionary.txt" , 'r') as file :
